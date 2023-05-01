@@ -1,0 +1,12 @@
+total 52
+drwxr-xr-x 3 kali kali  4096 May  1 13:10 .
+drwxr-xr-x 3 kali kali  4096 May  1 07:33 ..
+-rwx------ 1 kali kali   162 May  1 13:00 args.sh
+-rwx------ 1 kali kali   132 May  1 08:38 case.sh
+-rwx------ 1 kali kali   362 May  1 08:31 conditional.sh
+drwxr-xr-x 2 kali kali  4096 May  1 13:10 files
+-rwx------ 1 kali kali   148 May  1 11:07 for.sh
+-rwx------ 1 kali kali   103 May  1 07:56 hello.sh
+-rwx------ 1 kali kali    75 May  1 13:10 outerr.sh
+-rw------- 1 kali kali 12288 May  1 13:10 .outerr.sh.swp
+-rwx------ 1 kali kali   147 May  1 10:51 while_loop.sh
